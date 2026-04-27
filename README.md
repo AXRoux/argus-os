@@ -90,7 +90,7 @@ The agent runner orchestrates the full intelligence cycle: it receives a natural
 ### Setup
 
 ```bash
-git clone https://github.com/stratir/argus-os.git
+git clone https://github.com/AXRoux/argus-os.git
 cd argus-os
 
 cp .env.example .env
