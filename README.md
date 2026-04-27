@@ -25,7 +25,7 @@
 
 <br/>
 
-> **Argus** is a tool and all-source intelligence assistant built by [Stratir](https://github.com/stratir), operating as part of the **Vanguard** faction on [Limitless-OSINT](https://limitless-osint.com) — Stratir's educational intelligence platform.
+> **Argus** is a tool and all-source intelligence assistant built by [Stratir](https://stratir.com), operating as part of the **Vanguard** faction on [Limitless-OSINT](https://limitless-osint.com) — Stratir's educational intelligence platform.
 
 <br/>
 
@@ -234,7 +234,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for the full guide. The easiest way to co
 
 <div align="center">
 
-**Built by [Stratir](https://github.com/stratir)**
+**Built by [Stratir](https://stratir.com)**
 
 Part of the Vanguard faction on [Limitless-OSINT](https://limitless-osint.com)
 

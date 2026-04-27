@@ -5,7 +5,7 @@ Thanks for your interest in contributing! Here's how to get started.
 ## Development Setup
 
 ```bash
-git clone https://github.com/stratir/argus.git
+git clone https://github.com/AXRoux/argus-os.git
 cd argus
 cp .env.example .env
 # Add your LLM API key to .env
